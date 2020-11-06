@@ -64,6 +64,8 @@ def validatInput(input):
 
   return isValid
 
+
+# feed me a roman numeral please
 def convert(numerals: str):
   # validate
   isValid = validatInput(numerals)
